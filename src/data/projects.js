@@ -29,4 +29,20 @@ export const projects = [
     repo: "https://github.com/Manans6114",
     accent: "#7cb2e8",
   },
+  {
+    id: "cafe-management",
+    name: "Cafe Management System",
+    period: "Jan 2023 – Apr 2023",
+    blurb: "Backend system for managing cafe operations with secure authentication and RESTful APIs.",
+    description:
+      "Backend system for managing cafe operations with secure authentication, RESTful APIs, and PostgreSQL database integration using Spring Boot.",
+    points: [
+      "Implemented secure authentication and role-based access with Spring Security.",
+      "Exposed RESTful APIs for orders, products, users, and billing.",
+      "Designed and integrated PostgreSQL schema for transactional reliability.",
+    ],
+    stack: ["Java", "Spring Boot", "Spring Security", "Angular", "PostgreSQL"],
+    repo: "https://github.com/Manans6114",
+    accent: "#c98cf0",
+  },
 ]

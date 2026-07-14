@@ -283,13 +283,13 @@ export function Home() {
               </Status>
 
               <Title variants={fadeUp}>
-                Hey, I&apos;m <em>{profile.name}</em>.
+                Hey, I&apos;m <em>{profile.name}</em>
                 <br />
-         
               </Title>
+              
 
               <Lead variants={fadeUp}>
-                Hands on experience in backend development.
+                I build secure and scalable backend applications with Java and Spring Boot, focusing on reliable APIs, efficient databases and good performance.
               </Lead>
 
               <Actions variants={fadeUp}>
